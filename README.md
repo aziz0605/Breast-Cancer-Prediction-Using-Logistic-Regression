@@ -98,6 +98,7 @@ Evaluate model performance using:
 ### 7. Data Visualization
 
 Visualize the confusion matrix using a Seaborn heatmap to understand the model's prediction performance.
+<img width="501" height="393" alt="image" src="https://github.com/user-attachments/assets/308c3f3f-2ee8-4bb0-8dde-d40ab3e71286" />
 
 ## 📊 Model Performance
 
