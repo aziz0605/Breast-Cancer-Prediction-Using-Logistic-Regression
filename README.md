@@ -1,4 +1,4 @@
-# 🎗️ Breast Cancer Prediction Using Logistic Regression
+<img width="501" height="393" alt="image" src="https://github.com/user-attachments/assets/52f2ce8b-d9fd-4ebe-8c01-f1b04b6e0e8c" /># 🎗️ Breast Cancer Prediction Using Logistic Regression
 
 ## 📌 Project Overview
 
@@ -98,7 +98,6 @@ Evaluate model performance using:
 ### 7. Data Visualization
 
 Visualize the confusion matrix using a Seaborn heatmap to understand the model's prediction performance.
-<img width="501" height="393" alt="image" src="https://github.com/user-attachments/assets/308c3f3f-2ee8-4bb0-8dde-d40ab3e71286" />
 
 ## 📊 Model Performance
 
@@ -123,6 +122,9 @@ The Logistic Regression model achieved the following result in the current noteb
 ### 1. Confusion Matrix - Heatmap
 
 A heatmap visualization of the confusion matrix showing the actual and predicted classification results.
+<img width="501" height="393" alt="image" src="https://github.com/user-attachments/assets/47a01275-509d-45a5-8695-3e3180b55b8c" />
+
+
 
 ## 🚀 How to Run This Project
 
